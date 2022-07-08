@@ -11,14 +11,23 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 
 # 2 Sensor design papers and related github repositories
 ## 2.1 Gelsight and its variants
+**[0]** Yuan, W.; Dong, S.; Adelson, E.H. [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762#cite) :star::star::star::star::star:  
+**[1]** Elliott Donlon, Siyuan Dong, Melody Liu, Jianhua Li, Edward Adelson, Alberto Rodriguez [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://arxiv.org/abs/1803.00628) :star::star::star::star::star:  
+[GelSlim Webpage](http://www.mit.edu/~daolinma/research/tactile_sensing.html#:~:text=GelSlim%20is%20a%20tactile%20finger,elastoma%20is%20the%20sensing%20element.)
 ## 2.2 DIGIT
 ## 2.3 FingerVision
 ## 2.4 ETH Zurich tactile sensor
+Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163)
 ## 2.5 GelTip
+Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404)
 ## 2.6 DelTact
+Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179)
 ## 2.7 OmniTact
+Akhil Padmanabha, Frederik Ebert, Stephen Tian, Roberto Calandra, Chelsea Finn, Sergey Levine [OmniTact: A Multi-Directional High Resolution Touch Sensor](https://arxiv.org/abs/2003.06965)
 ## 2.8 TacTip
 ## 2.9 Insight
+Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-based sensor with accurate all-round force perception
+](https://arxiv.org/abs/2111.05934)
 # 3 Tactile sensing tasks
 ## 3.1 Touch Detection
 ## 3.2 Force Estimation
