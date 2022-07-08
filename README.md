@@ -1,7 +1,6 @@
 # awesome-tactile-sensing
 >Collection of vision-based tactile sensing papers and blogposts
 
-I have created this repository to stay on track with the progress of tactile sensor research.
 ---------------------------------------
 
 # 1 Vision-based tactile sensors
