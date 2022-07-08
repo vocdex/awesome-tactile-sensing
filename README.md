@@ -13,7 +13,8 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 ## 2.1 Gelsight and its variants
 **[0]** Yuan, W.; Dong, S.; Adelson, E.H. [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762#cite) :star::star::star::star::star:  
 **[1]** Elliott Donlon, Siyuan Dong, Melody Liu, Jianhua Li, Edward Adelson, Alberto Rodriguez [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://arxiv.org/abs/1803.00628) :star::star::star::star::star:  
-[GelSlim Webpage](http://www.mit.edu/~daolinma/research/tactile_sensing.html#:~:text=GelSlim%20is%20a%20tactile%20finger,elastoma%20is%20the%20sensing%20element.)
+[GelSlim Webpage](http://www.mit.edu/~daolinma/research/tactile_sensing.html#:~:text=GelSlim%20is%20a%20tactile%20finger,elastoma%20is%20the%20sensing%20element.).   
+
 **[2]** Daolin Ma, Elliott Donlon, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Distribution Estimation using GelSlim and inverse FEM](https://arxiv.org/abs/1810.04621) :star::star::star::star::star:
 **[3]** Ian Taylor, Siyuan Dong, Alberto Rodriguez [GelSlim3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://arxiv.org/abs/2103.12269) :star::star::star::star::star:
 **[4]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star::star::star:
