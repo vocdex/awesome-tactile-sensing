@@ -15,8 +15,10 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 **[1]** Elliott Donlon, Siyuan Dong, Melody Liu, Jianhua Li, Edward Adelson, Alberto Rodriguez [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://arxiv.org/abs/1803.00628) :star::star::star::star::star:  
 [GelSlim Webpage](http://www.mit.edu/~daolinma/research/tactile_sensing.html#:~:text=GelSlim%20is%20a%20tactile%20finger,elastoma%20is%20the%20sensing%20element.).   
 
-**[2]** Daolin Ma, Elliott Donlon, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Distribution Estimation using GelSlim and inverse FEM](https://arxiv.org/abs/1810.04621) :star::star::star::star::star:
-**[3]** Ian Taylor, Siyuan Dong, Alberto Rodriguez [GelSlim3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://arxiv.org/abs/2103.12269) :star::star::star::star::star:
+**[2]** Daolin Ma, Elliott Donlon, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Distribution Estimation using GelSlim and inverse FEM](https://arxiv.org/abs/1810.04621) :star::star::star::star::star:  
+
+**[3]** Ian Taylor, Siyuan Dong, Alberto Rodriguez [GelSlim3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://arxiv.org/abs/2103.12269) :star::star::star::star::star:  
+
 **[4]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star::star::star:
 ## 2.2 DIGIT
 Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
@@ -41,11 +43,12 @@ Nathan F. Lepora [Soft Biomimetic Optical Tactile Sensing with the TacTip: A Rev
 Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-based sensor with accurate all-round force perception](https://arxiv.org/abs/2111.05934) :star::star::star::star::star:
 # 3 Tactile sensing tasks
 ## 3.1 Touch Detection
-**[0]** Julio Castano-Amoros,Pablo Gil, Santiago Puente[Touch Detection with Low-cost Visual-based Sensor](https://rua.ua.es/dspace/bitstream/10045/119083/4/Castano-Amoros_etal_ROBOVIS-2021.pdf) :star::star::star::star::star:
+**[0]** Julio Castano-Amoros,Pablo Gil, Santiago Puente [Touch Detection with Low-cost Visual-based Sensor](https://rua.ua.es/dspace/bitstream/10045/119083/4/Castano-Amoros_etal_ROBOVIS-2021.pdf) :star::star::star::star::star:
 ## 3.2 Force Estimation
 ## 3.3 Pose Estimation
 ## 3.4 3D reconstruction
 ## 3.5 Slip detection
 **[0]** Yazhan Zhang, Zicheng Kan,Yu Alexander Tse,Yang Yang, Michael Yu Wang [FingerVision Tactile Sensor Design and Slip Detection Using
-Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) :star::star::star::star::star:
+Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) :star::star::star::star::star:  
+
 **[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791) check page 5 of the paper for more details. :star::star::star::star::star:
