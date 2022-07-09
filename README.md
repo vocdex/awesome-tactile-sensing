@@ -20,7 +20,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 **[3]** Ian Taylor, Siyuan Dong, Alberto Rodriguez [GelSlim3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://arxiv.org/abs/2103.12269) :star::star::star::star::star:  
 
 **[4]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star::star::star:
-### Related Github repos```
+### Related Github repos
 - [Gelsight Marker Tracking](https://github.com/GelSight/tracking)
 - [GelSlim Fabrication and Software](https://github.com/mcubelab/gelslim)
 - [GelSlim heightmap reconstruction](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
@@ -32,12 +32,12 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 **[0]** Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
 [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://arxiv.org/abs/2005.14679) :star::star::star::star::star:
 ### Related Github repos
--[digit-interface](https://github.com/facebookresearch/digit-interface)
--[PyTouch: a machine learning library for tactile touch sensing](https://github.com/facebookresearch/PyTouch)
+- [digit-interface](https://github.com/facebookresearch/digit-interface)
+- [PyTouch: a machine learning library for tactile touch sensing](https://github.com/facebookresearch/PyTouch)
 #### Unofficial:
--[PatchGraph:In-hand tactile tracking with learned surface normals](https://github.com/psodhi/tactile-in-hand)
--[Touch Detection with Deep CNNs](https://github.com/Jcastanyo/Grip-detection)
--[gazebo-yarp-digit-plugin](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
+- [PatchGraph:In-hand tactile tracking with learned surface normals](https://github.com/psodhi/tactile-in-hand)
+- [Touch Detection with Deep CNNs](https://github.com/Jcastanyo/Grip-detection)
+- [gazebo-yarp-digit-plugin](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 
 ## 2.3 FingerVision
 **[0]** Akihiko Yamaguchi [FingerVision for Tactile Behaviors, Manipulation,and Haptic Feedback Teleoperation](http://akihikoy.net/info/wdocs/Yamaguchi,2018-FingerVision%20for%20Tactile%20Behaviors,%20Manipulation,%20and%20Haptic%20Feedback%20Teleoperation-SAMCON.pdf) :star::star::star::star::star:    
@@ -46,7 +46,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 [FingerVision webpage](http://akihikoy.net/notes/?project%2FFingerVision%2FConcept)
 
 ### Related Github repos
--[FingerVision](https://github.com/akihikoy/fingervision)
+- [FingerVision](https://github.com/akihikoy/fingervision)
 ## 2.4 ETH Zurich tactile sensor
 **[0]** Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163) :star::star::star::star::star:
 ### Related Github repos
@@ -54,7 +54,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 ## 2.5 GelTip
 **[0]** Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
 ### Related Github repos
--[GelTip](https://github.com/danfergo/geltip)
+- [GelTip](https://github.com/danfergo/geltip)
 ## 2.6 DelTact
 **[0]** Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179) :star::star::star::star::star:
 ### Related Github repos
