@@ -76,7 +76,6 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 **[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check Section 4, Part A
 
 ## 3.2 Force Estimation
-**[0]** C. Sferrazza, A. Wahlsten, C. Trueeb and R. D’Andrea, [Ground Truth Force Distribution for Learning-Based Tactile Sensing: A Finite Element Approach](https://ieeexplore.ieee.org/document/8918082). 
 
 **[0]** C. Sferrazza, A. Wahlsten, C. Trueeb and R. D’Andrea, [Ground Truth Force Distribution for Learning-Based Tactile Sensing: A Finite Element Approach](https://ieeexplore.ieee.org/document/8918082). 
 **[1]** Daolin Ma*, Elliott Donlon*, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://arxiv.org/pdf/1810.04621.pdf). 
@@ -84,7 +83,8 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 
 **[3]** Wenzhen Yuan, Siyuan Dong, Edward H. Adelson [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762/htm). Check Section 3.6 and 5.2 in the paper. 
 
-**[4]** Carmelo Sferrazza and Raffaello D’Andrea1 [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928/htm). Check Section 4. 
+**[4]** Carmelo Sferrazza and Raffaello D’Andrea1 [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928/htm).  
+Check Section 4. 
 
 ## 3.3 2D&3D Pose Estimation
 **[0]** Yu She,Shaoxiong Wang,Siyuan Dong,Neha Sunil,Alberto Rodriguez and Edward Adelson [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/pdf/1910.02860.pdf). Check Section 4, Part B. 
