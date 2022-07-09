@@ -90,7 +90,7 @@ Check Section 4.
 **[0]** Yu She,Shaoxiong Wang,Siyuan Dong,Neha Sunil,Alberto Rodriguez and Edward Adelson [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/pdf/1910.02860.pdf). Check Section 4, Part B. 
 
 **[1]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851). Check Section 4, Part D. 
-
+**[2]** Tactile Pose Estimation algorithmg example by Facebook Research's [Theseus](https://github.com/facebookresearch/theseus/blob/main/examples/tactile_pose_estimation.py)
 ## 3.4 3D reconstruction
 ## 3.5 Slip detection
 **[0]** Yazhan Zhang, Zicheng Kan,Yu Alexander Tse,Yang Yang, Michael Yu Wang   
