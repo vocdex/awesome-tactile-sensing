@@ -46,7 +46,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 [FingerVision webpage](http://akihikoy.net/notes/?project%2FFingerVision%2FConcept)
 
 ### Related Github repos
-
+-[FingerVision](https://github.com/akihikoy/fingervision)
 ## 2.4 ETH Zurich tactile sensor
 **[0]** Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163) :star::star::star::star::star:
 ### Related Github repos
@@ -54,7 +54,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 ## 2.5 GelTip
 **[0]** Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
 ### Related Github repos
-
+-[GelTip](https://github.com/danfergo/geltip)
 ## 2.6 DelTact
 **[0]** Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179) :star::star::star::star::star:
 ### Related Github repos
@@ -72,15 +72,23 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 # 3 Tactile sensing tasks
 ## 3.1 Touch Detection
 **[0]** Julio Castano-Amoros,Pablo Gil, Santiago Puente [Touch Detection with Low-cost Visual-based Sensor](https://rua.ua.es/dspace/bitstream/10045/119083/4/Castano-Amoros_etal_ROBOVIS-2021.pdf) :star::star::star::star::star:
+**[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check Section 4, Part A
 ## 3.2 Force Estimation
-## 3.3 Pose Estimation
+**[0]** C. Sferrazza, A. Wahlsten, C. Trueeb and R. D’Andrea, [Ground Truth Force Distribution for Learning-Based Tactile Sensing: A Finite Element Approach](https://ieeexplore.ieee.org/document/8918082)
+**[1]** Daolin Ma*, Elliott Donlon*, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://arxiv.org/pdf/1810.04621.pdf)
+**[2]** Carmelo Sferrazza and Raffaello D’Andrea1 [Transfer learning for vision-based tactile sensing](https://arxiv.org/pdf/1812.03163.pdf)
+**[3]** Wenzhen Yuan, Siyuan Dong, Edward H. Adelson [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762/htm). Check Section 3.6 and 5.2 in the paper
+**[4]** Carmelo Sferrazza and Raffaello D’Andrea1 [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928/htm). Check Section 4
+## 3.3 2D&3D Pose Estimation
+**[0]** Yu She,Shaoxiong Wang,Siyuan Dong,Neha Sunil,Alberto Rodriguez and Edward Adelson [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/pdf/1910.02860.pdf). Check Section 4, Part B
+**[1]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851). Check Section 4, Part D
 ## 3.4 3D reconstruction
 ## 3.5 Slip detection
 **[0]** Yazhan Zhang, Zicheng Kan,Yu Alexander Tse,Yang Yang, Michael Yu Wang   
 [FingerVision Tactile Sensor Design and Slip Detection Using
 Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) :star::star::star::star::star:  
 
-**[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check page 5 of the paper for more details. :star::star::star::star::star:
+**[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check Section 4, Part D
 ## 3.6 Localization and Mapping
 **[0]** Rui Li, Robert Platt Jr., Wenzhen Yuan*, Andreas ten Pas*, Nathan Roscup*, Mandayam A. Srinivasan,
 Edward Adelson [Localization and Manipulation of Small Parts Using GelSight Tactile
