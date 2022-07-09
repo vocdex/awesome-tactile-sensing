@@ -55,16 +55,15 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 **[0]** Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
 ### Related Github repos
 - [GelTip](https://github.com/danfergo/geltip)
+
 ## 2.6 DelTact
 **[0]** Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179) :star::star::star::star::star:
-### Related Github repos
 
 ## 2.7 OmniTact
 **[0]** Akhil Padmanabha, Frederik Ebert, Stephen Tian, Roberto Calandra, Chelsea Finn, Sergey Levine [OmniTact: A Multi-Directional High Resolution Touch Sensor](https://arxiv.org/abs/2003.06965) :star::star::star::star::star:
-### Related Github repos
+
 ## 2.8 TacTip
 **[0]** Nathan F. Lepora [Soft Biomimetic Optical Tactile Sensing with the TacTip: A Review](https://arxiv.org/abs/2105.14455)
-### Related Github repos
 
 ## 2.9 Insight
 **[0]** Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-based sensor with accurate all-round force perception](https://arxiv.org/abs/2111.05934) :star::star::star::star::star:
