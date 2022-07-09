@@ -49,7 +49,6 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 - [FingerVision](https://github.com/akihikoy/fingervision)
 ## 2.4 ETH Zurich tactile sensor
 **[0]** Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163) :star::star::star::star::star:
-### Related Github repos
 
 ## 2.5 GelTip
 **[0]** Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
