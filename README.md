@@ -95,7 +95,7 @@ Check Section 4.
 ## 3.5 Slip detection
 **[0]** Yazhan Zhang, Zicheng Kan,Yu Alexander Tse,Yang Yang, Michael Yu Wang   
 [FingerVision Tactile Sensor Design and Slip Detection Using
-Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) :star::star::star::star::star:  
+Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) 
 
 **[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check Section 4, Part D
 ## 3.6 Localization and Mapping
