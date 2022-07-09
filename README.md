@@ -11,6 +11,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 # 2 Sensor design papers and related github repositories
 ## 2.1 Gelsight and its variants
 **[0]** Yuan, W.; Dong, S.; Adelson, E.H. [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762#cite) :star::star::star::star::star:  
+
 **[1]** Elliott Donlon, Siyuan Dong, Melody Liu, Jianhua Li, Edward Adelson, Alberto Rodriguez [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://arxiv.org/abs/1803.00628) :star::star::star::star::star:  
 [GelSlim Webpage](http://www.mit.edu/~daolinma/research/tactile_sensing.html#:~:text=GelSlim%20is%20a%20tactile%20finger,elastoma%20is%20the%20sensing%20element.).   
 
@@ -28,7 +29,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 - [Calibration of Osaka-produced GelSight](https://github.com/wrslab/gelsight)
 - [Implementation of Gelsight Wedge](https://github.com/leo9344/Implementation-of-GelSight)
 ## 2.2 DIGIT
-Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
+**[0]** Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
 [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://arxiv.org/abs/2005.14679) :star::star::star::star::star:
 ### Related Github repos
 -[digit-interface](https://github.com/facebookresearch/digit-interface)
@@ -39,34 +40,34 @@ Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria R
 -[gazebo-yarp-digit-plugin](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 
 ## 2.3 FingerVision
-Akihiko Yamaguchi [FingerVision for Tactile Behaviors, Manipulation,and Haptic Feedback Teleoperation](http://akihikoy.net/info/wdocs/Yamaguchi,2018-FingerVision%20for%20Tactile%20Behaviors,%20Manipulation,%20and%20Haptic%20Feedback%20Teleoperation-SAMCON.pdf) :star::star::star::star::star:    
+**[0]** Akihiko Yamaguchi [FingerVision for Tactile Behaviors, Manipulation,and Haptic Feedback Teleoperation](http://akihikoy.net/info/wdocs/Yamaguchi,2018-FingerVision%20for%20Tactile%20Behaviors,%20Manipulation,%20and%20Haptic%20Feedback%20Teleoperation-SAMCON.pdf) :star::star::star::star::star:    
 
-Akihiko Yamaguchi, Christopher G. Atkeson [Tactile Behaviors with the Vision-Based Tactile Sensor FingerVision](https://par.nsf.gov/servlets/purl/10156255)  
+**[1]** Akihiko Yamaguchi, Christopher G. Atkeson [Tactile Behaviors with the Vision-Based Tactile Sensor FingerVision](https://par.nsf.gov/servlets/purl/10156255)  
 [FingerVision webpage](http://akihikoy.net/notes/?project%2FFingerVision%2FConcept)
 
 ### Related Github repos
 
 ## 2.4 ETH Zurich tactile sensor
-Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163) :star::star::star::star::star:
+**[0]** Carmelo Sferrazza, Raffaello D'Andrea [Transfer learning for vision-based tactile sensing](https://arxiv.org/abs/1812.03163) :star::star::star::star::star:
 ### Related Github repos
 
 ## 2.5 GelTip
-Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
+**[0]** Daniel Fernandes Gomes, Zhonglin Lin, Shan Luo [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2008.05404) :star::star::star::star::star:
 ### Related Github repos
 
 ## 2.6 DelTact
-Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179) :star::star::star::star::star:
+**[0]** Guanlan Zhang, Yipai Du, Hongyu Yu, Michael Yu Wang.  [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179) :star::star::star::star::star:
 ### Related Github repos
 
 ## 2.7 OmniTact
-Akhil Padmanabha, Frederik Ebert, Stephen Tian, Roberto Calandra, Chelsea Finn, Sergey Levine [OmniTact: A Multi-Directional High Resolution Touch Sensor](https://arxiv.org/abs/2003.06965) :star::star::star::star::star:
+**[0]** Akhil Padmanabha, Frederik Ebert, Stephen Tian, Roberto Calandra, Chelsea Finn, Sergey Levine [OmniTact: A Multi-Directional High Resolution Touch Sensor](https://arxiv.org/abs/2003.06965) :star::star::star::star::star:
 ### Related Github repos
 ## 2.8 TacTip
-Nathan F. Lepora [Soft Biomimetic Optical Tactile Sensing with the TacTip: A Review](https://arxiv.org/abs/2105.14455)
+**[0]** Nathan F. Lepora [Soft Biomimetic Optical Tactile Sensing with the TacTip: A Review](https://arxiv.org/abs/2105.14455)
 ### Related Github repos
 
 ## 2.9 Insight
-Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-based sensor with accurate all-round force perception](https://arxiv.org/abs/2111.05934) :star::star::star::star::star:
+**[0]** Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-based sensor with accurate all-round force perception](https://arxiv.org/abs/2111.05934) :star::star::star::star::star:
 
 # 3 Tactile sensing tasks
 ## 3.1 Touch Detection
@@ -79,7 +80,7 @@ Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius [A soft thumb-sized vision-
 [FingerVision Tactile Sensor Design and Slip Detection Using
 Convolutional LSTM Network](https://arxiv.org/abs/1810.02653) :star::star::star::star::star:  
 
-**[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791) check page 5 of the paper for more details. :star::star::star::star::star:
+**[1]** Mike Lambeta, Huazhe Xu, Jingwei Xu, Po-Wei Chou, Shaoxiong Wang, Trevor Darrell, Roberto Calandra [PyTouch: A Machine Learning Library for Touch Processing](https://arxiv.org/abs/2105.12791). Check page 5 of the paper for more details. :star::star::star::star::star:
 ## 3.6 Localization and Mapping
 **[0]** Rui Li, Robert Platt Jr., Wenzhen Yuan*, Andreas ten Pas*, Nathan Roscup*, Mandayam A. Srinivasan,
 Edward Adelson [Localization and Manipulation of Small Parts Using GelSight Tactile
