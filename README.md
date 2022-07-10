@@ -75,8 +75,10 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 
 ## 3.2 Force Estimation
 
-**[0]** C. Sferrazza, A. Wahlsten, C. Trueeb and R. D’Andrea, [Ground Truth Force Distribution for Learning-Based Tactile Sensing: A Finite Element Approach](https://ieeexplore.ieee.org/document/8918082). 
-**[1]** Daolin Ma*, Elliott Donlon*, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://arxiv.org/pdf/1810.04621.pdf). 
+**[0]** C. Sferrazza, A. Wahlsten, C. Trueeb and R. D’Andrea, [Ground Truth Force Distribution for Learning-Based Tactile Sensing: A Finite Element Approach](https://ieeexplore.ieee.org/document/8918082).   
+
+**[1]** Daolin Ma*, Elliott Donlon*, Siyuan Dong, Alberto Rodriguez [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://arxiv.org/pdf/1810.04621.pdf).   
+
 **[2]** Carmelo Sferrazza and Raffaello D’Andrea1 [Transfer learning for vision-based tactile sensing](https://arxiv.org/pdf/1812.03163.pdf). 
 
 **[3]** Wenzhen Yuan, Siyuan Dong, Edward H. Adelson [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762/htm). Check Section 3.6 and 5.2 in the paper. 
