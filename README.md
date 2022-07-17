@@ -28,6 +28,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 #### Unofficial:
 - [Calibration of Osaka-produced GelSight](https://github.com/wrslab/gelsight)
 - [Implementation of Gelsight Wedge](https://github.com/leo9344/Implementation-of-GelSight)
+- [GelSight ROS](https://github.com/hmccarty/gelsight-ros): This package implements a variety of processing techniques for GelSight sensors in ROS.
 ## 2.2 DIGIT
 **[0]** Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
 [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://arxiv.org/abs/2005.14679) :star::star::star::star::star:
