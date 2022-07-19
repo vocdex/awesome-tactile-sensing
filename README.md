@@ -21,6 +21,7 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 
 **[4]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star::star::star:
 ### Related Github repos
+- [Neural Network based Marker Tracking](https://github.com/wx405557858/neural_tracking). This a robust marker tracking project that outperforms the below one ( by the same author)
 - [Gelsight Marker Tracking](https://github.com/GelSight/tracking)
 - [GelSlim Fabrication and Software](https://github.com/mcubelab/gelslim)
 - [GelSlim heightmap reconstruction](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
