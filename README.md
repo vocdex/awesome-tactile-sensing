@@ -28,7 +28,12 @@ Overview of sensors in this table from the paper [A soft thumb-sized vision-base
 
 **[4]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson
 
-[GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star: 
+[GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851) :star::star::star:   
+
+**[5] ** Sandra Q. Liu and Edward H. Adelson. 
+[GelSight Fin Ray: Incorporating Tactile Sensing into a Soft Compliant Robotic Gripper](https://arxiv.org/pdf/2204.07146.pdf) :star::star::star:   
+
+
 ### Related Github repos
 - [Neural Network based Marker Tracking](https://github.com/wx405557858/neural_tracking). This a robust marker tracking project that outperforms the below one ( by the same author)
 - [Gelsight Marker Tracking](https://github.com/GelSight/tracking)
@@ -111,8 +116,11 @@ Check Section 4.
 **[1]** Shaoxiong Wang, Yu She, Branden Romero, Edward Adelson 
 
 [GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger](https://arxiv.org/abs/2106.08851). Check Section 4, Part D.   
+**[2]** Sandra Q. Liu and Edward H. Adelson. 
+[GelSight Fin Ray: Incorporating Tactile Sensing into a Soft Compliant
+Robotic Gripper](https://arxiv.org/pdf/2204.07146.pdf)
 
-**[2]** Tactile Pose Estimation algorithmg example by Facebook Research's [Theseus](https://github.com/facebookresearch/theseus/blob/main/examples/tactile_pose_estimation.py)
+**[3]** Tactile Pose Estimation algorithm example by Facebook Research's [Theseus](https://github.com/facebookresearch/theseus/blob/main/examples/tactile_pose_estimation.py)
 ## 3.4 3D reconstruction
 ## 3.5 Slip detection
 **[0]** Yazhan Zhang, Zicheng Kan,Yu Alexander Tse,Yang Yang, Michael Yu Wang   
