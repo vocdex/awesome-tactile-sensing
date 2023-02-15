@@ -1,3 +1,5 @@
+# Announcement
+ Please check for more recent list at a similar repo by [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch). I will probably not update this list from now on.
 # awesome-tactile-sensing
 >Collection of vision-based tactile sensing papers and blogposts
 
